@@ -1,2 +1,2 @@
-# ResourceArrangement
+# 资源收集
 📚优质的常用资源，持续更新中
