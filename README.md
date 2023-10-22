@@ -5,4 +5,4 @@
 
 ## HTML
 
-+ [HTML5 Canvas核心技术 图形、动画与游戏开发](./book/html/HTML5 Canvas核心技术 图形、动画与游戏开发[撩撩前端].pdf)
++ [HTML5 Canvas核心技术 图形、动画与游戏开发](./book/html/cancas.pdf)
