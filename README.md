@@ -9,7 +9,7 @@
 
 > 如有侵权，请联系删除！
 
-[在线阅读](https://awesome-programming-books.github.io/)
+[在线阅读](https://zhuling904.github.io/ResourceArrangement/)
 
 ## HTML
 
